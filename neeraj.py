@@ -1,0 +1,1 @@
+print("Hello, Dev Sir, the best teacher in the world!")
